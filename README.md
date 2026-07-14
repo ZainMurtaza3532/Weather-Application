@@ -1,36 +1,238 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🌦️ Weather Application
 
-## Getting Started
+A modern **Full Stack Weather Application** built with **Next.js, React, Tailwind CSS, OpenWeather API, Leaflet Maps, and OpenStreetMap**. Search any city worldwide and get real-time weather, forecasts, air quality, UV index, wind details, sunrise/sunset, interactive maps, and much more.
 
-First, run the development server:
+![Weather Application Banner](./thumbnail.png)
+
+---
+
+## ✨ Features
+
+- 🌍 Search weather for any city
+- 🌡️ Real-time weather information
+- 📅 5-Day Weather Forecast
+- 🕒 Live Clock & Current Day
+- 🌅 Sunrise & Sunset Time
+- 🌬️ Wind Speed & Direction
+- 🌫️ Air Pollution Index (AQI)
+- ☀️ UV Index
+- 💧 Humidity
+- 🌡️ Feels Like Temperature
+- 👀 Visibility
+- ⚡ Atmospheric Pressure
+- 🗺️ Interactive Map (Leaflet + OpenStreetMap)
+- 🌙 Dark / Light Theme
+- 📱 Fully Responsive Design
+- ⚡ Fast Performance using Next.js
+- 🎨 Modern UI/UX
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+- Next.js
+- React.js
+- Tailwind CSS
+- TypeScript
+
+### APIs
+
+- OpenWeather API
+- OpenWeather Air Pollution API
+- OpenWeather Forecast API
+- OpenStreetMap
+- Leaflet Maps
+
+### Deployment
+
+- Vercel
+
+---
+
+## 📸 Screenshots
+
+### ☀️ Light Mode
+
+> Add your screenshot here
+
+```
+public/screenshots/light-mode.png
+```
+
+---
+
+### 🌙 Dark Mode
+
+> Add your screenshot here
+
+```
+public/screenshots/dark-mode.png
+```
+
+---
+
+## 📂 Folder Structure
+
+```bash
+Weather-Application/
+│
+├── app/
+├── components/
+├── lib/
+├── public/
+├── styles/
+├── types/
+├── utils/
+├── .env.local
+├── package.json
+└── README.md
+```
+
+---
+
+## ⚙️ Environment Variables
+
+Create a **`.env.local`** file in the root directory.
+
+```env
+NEXT_PUBLIC_OPENWEATHER_API_KEY=YOUR_API_KEY
+```
+
+Get your free API key from:
+
+https://openweathermap.org/api
+
+---
+
+## 🚀 Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/ZainMurtaza3532/Weather-Application.git
+```
+
+Go to project folder
+
+```bash
+cd Weather-Application
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run development server
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+---
 
-## Learn More
+## 📦 Build for Production
 
-To learn more about Next.js, take a look at the following resources:
+```bash
+npm run build
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Start Production Server
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+```bash
+npm start
+```
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🌐 Live Demo
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Coming Soon...
+
+---
+
+## 🎯 Future Improvements
+
+- Weather Alerts
+- Hourly Forecast
+- Weather Radar
+- Favorite Cities
+- Geolocation Support
+- Multi-language Support
+- Weather Charts
+- PWA Support
+- Offline Mode
+- AI Weather Insights
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+1. Fork the project
+
+2. Create your feature branch
+
+```bash
+git checkout -b feature/AmazingFeature
+```
+
+3. Commit your changes
+
+```bash
+git commit -m "Add Amazing Feature"
+```
+
+4. Push to the branch
+
+```bash
+git push origin feature/AmazingFeature
+```
+
+5. Open a Pull Request
+
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a **⭐ Star** on GitHub.
+
+---
+
+## 👨‍💻 Author
+
+**Zain Murtaza**
+
+🌐 GitHub
+
+https://github.com/ZainMurtaza3532
+
+LinkedIn
+
+https://www.linkedin.com/in/zainmurtaza3532/
+
+Portfolio
+
+https://zain-murtaza.vercel.app
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+## ❤️ Made with
+
+Next.js • React • Tailwind CSS • OpenWeather API
