@@ -45,10 +45,6 @@ A modern **Full Stack Weather Application** built with **Next.js, React, Tailwin
 - OpenStreetMap
 - Leaflet Maps
 
-### Deployment
-
-- Vercel
-
 ---
 
 ## 📸 Screenshots
@@ -148,29 +144,6 @@ Start Production Server
 ```bash
 npm start
 ```
-
----
-
-## 🌐 Live Demo
-
-Coming Soon...
-
----
-
-## 🎯 Future Improvements
-
-- Weather Alerts
-- Hourly Forecast
-- Weather Radar
-- Favorite Cities
-- Geolocation Support
-- Multi-language Support
-- Weather Charts
-- PWA Support
-- Offline Mode
-- AI Weather Insights
-
----
 
 ## 🤝 Contributing
 
