@@ -47,43 +47,6 @@ A modern **Full Stack Weather Application** built with **Next.js, React, Tailwin
 
 ---
 
-## 📸 Screenshots
-
-### ☀️ Light Mode
-
-> Add your screenshot here
-
-```
-public/screenshots/light-mode.png
-```
-
----
-
-### 🌙 Dark Mode
-
-> Add your screenshot here
-
-```
-public/screenshots/dark-mode.png
-```
-
----
-
-## 📂 Folder Structure
-
-```bash
-Weather-Application/
-│
-├── app/
-├── components/
-├── lib/
-├── public/
-├── .env.local
-├── package.json
-└── README.md
-```
-
----
 
 ## ⚙️ Environment Variables
 
