@@ -82,9 +82,6 @@ Weather-Application/
 ├── components/
 ├── lib/
 ├── public/
-├── styles/
-├── types/
-├── utils/
 ├── .env.local
 ├── package.json
 └── README.md
